@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #f0759a;
+    font-family: Verdana, "DejaVU Sans", sans-serif; 
+}
+
+#second_el {
+    color: blue;
+    font-size: 36px;
+}
+
+.third_el {
+    font-size: 24px;
+}
+
+#forth_el {
+    background-color: #30e68e;
+    font-size: 24px;
+    font-weight: bold;
+}
